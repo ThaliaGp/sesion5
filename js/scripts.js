@@ -1,5 +1,3 @@
-
-
 window.addEventListener('DOMContentLoaded', event => {
 
     // Activate Bootstrap scrollspy en el elemento de navegacion principal
